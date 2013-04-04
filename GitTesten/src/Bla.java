@@ -20,4 +20,11 @@ public class Bla {
 		System.out.println("So eine geile Methode");
 	}
 	
+	
+	public static void stabil(){
+		System.out.println("Stabiiiiiiiiiiiiilll");
+	}
+	
+	
+	
 }
