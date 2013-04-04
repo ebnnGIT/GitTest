@@ -20,4 +20,9 @@ public class Bla {
 		System.out.println("So eine geile Methode");
 	}
 	
+	public static void nichtStabil(){
+		System.out.println("Nicht stabil");
+	}
+	
+	
 }
