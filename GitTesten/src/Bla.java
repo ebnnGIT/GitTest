@@ -5,6 +5,7 @@ public class Bla {
 	public static void main(String[]args){
 		System.out.println("Hab da mal was geändert");
 		zweiteAusgabe();
+		krasseSache();
 	}
 	
 	
@@ -15,6 +16,8 @@ public class Bla {
 		System.out.println("MOIHUI");
 	}
 	
-	
+	public static void krasseSache(){
+		System.out.println("Stabile Methode");
+	}
 	
 }
